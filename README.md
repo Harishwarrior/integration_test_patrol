@@ -1,6 +1,6 @@
 # integration_test_patrol
 
-A new Flutter project.
+Sample flutter project to get started with integration testing in flutter using patrol
 
 ## Getting Started
 
