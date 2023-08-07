@@ -222,10 +222,10 @@ packages:
     dependency: "direct dev"
     description:
       name: patrol
-      sha256: "647fef5ec6e5ab81e8e664a276a8505f793900b126452b87706ae5f7379b1b2a"
+      sha256: "6f65c6f69f285f3049448a0f096b2641a66cb19016813bf1d1d40297d2e73f9f"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.0"
+    version: "2.2.0"
   platform:
     dependency: transitive
     description:
